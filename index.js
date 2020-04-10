@@ -30,7 +30,7 @@ function johnLennonFacts(facts){
 var aria = [];
 var i = 0
 while ( i < facts.length){
-  aria.push(facts[i]+ '!!!')
+  aria.push(facts[i] + '!!!')
   i++
   }
   return aria
